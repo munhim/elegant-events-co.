@@ -102,9 +102,9 @@ const ContactPage = () => {
                     <div>
                       <h3 className="font-semibold mb-1">Visit Our Studio</h3>
                       <p className="text-muted-foreground">
-                        123 Elegance Street, Suite 456
+                        F-7 Markaz, Jinnah Super
                         <br />
-                        New York, NY 10001
+                        Islamabad, Pakistan
                       </p>
                     </div>
                   </div>
@@ -131,10 +131,10 @@ const ContactPage = () => {
                     <div>
                       <h3 className="font-semibold mb-1">Email Us</h3>
                       <a
-                        href="mailto:hello@elegance-events.com"
+                        href="mailto:hello@eventivo.pk"
                         className="text-muted-foreground hover:text-gold transition-colors"
                       >
-                        hello@elegance-events.com
+                        hello@eventivo.pk
                       </a>
                     </div>
                   </div>
