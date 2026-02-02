@@ -82,8 +82,8 @@ export function Footer() {
               <li className="flex items-start gap-3">
                 <MapPin size={18} className="text-gold mt-1 flex-shrink-0" />
                 <span className="text-ivory/70">
-                  123 Elegance Street, Suite 456<br />
-                  New York, NY 10001
+                  F-7 Markaz, Jinnah Super<br />
+                  Islamabad, Pakistan
                 </span>
               </li>
               <li className="flex items-center gap-3">
@@ -98,10 +98,10 @@ export function Footer() {
               <li className="flex items-center gap-3">
                 <Mail size={18} className="text-gold flex-shrink-0" />
                 <a
-                  href="mailto:hello@elegance-events.com"
+                  href="mailto:hello@eventivo.pk"
                   className="text-ivory/70 hover:text-gold transition-colors"
                 >
-                  hello@elegance-events.com
+                  hello@eventivo.pk
                 </a>
               </li>
             </ul>
